@@ -8,7 +8,7 @@
     "build": "parcel build index.html"
   },
   "dependencies": {
-    "solid-js": "1.4.8",
+    "solid-js": "1.9.4",
     "xstate": "4.33.2"
   },
   "devDependencies": {
